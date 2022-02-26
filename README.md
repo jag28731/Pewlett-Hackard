@@ -4,10 +4,10 @@
 Bobby's manager has given Bobby and myself a new assignment. We are to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
   
 ### Purpose
-The purpose of my analysis was to was to create determine the number retiring employees per title, and identify employees who are eligible to participate in a mentorship program. This project will allow Bobby's manager to visually see the how many employees are retiring and who is available for the mentorship program. 
+The purpose of my analysis was to determine the number retiring employees by title and identify employees who are eligible to participate in the mentorship program. This project will allow Bobby's manager to visually see the how many employees are retiring and who is eligible for the mentorship program. 
 
 ## Pewlett Hackard Analysis Results
-Bobby's manager has given Bobby and myself a project to determine the retiring employees and employees eligible for the mentorship program. Below are the results  
+Below are the results of the retiring employees and employees eligible for the mentorship program.
 
 ### Results
 - There is over 70,000 employees close to retirement. 
